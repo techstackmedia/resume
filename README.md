@@ -23,7 +23,7 @@ I excel at integrating third‑party services, writing clean and maintainable co
 
 ### **GemPages – Customer Support Agent (CSA)** *(Remote)*
 
-**January 2025 – September 2025**
+**January 2025 – November 2025**
 
 * Assisted users in troubleshooting and optimizing Shopify stores using the GemPages page builder.
 * Collaborated with product and technical teams to identify bugs, test solutions, and communicate fixes.
