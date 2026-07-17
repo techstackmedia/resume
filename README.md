@@ -7,108 +7,162 @@
 **Email:** [osagienoah555@gmail.com](mailto:osagienoah555@gmail.com)  
 **Phone:** +2348080438476  
 **Website:** techstackspace.com  
-**YouTube:** TechStack Media
+**YouTube:** TechStack Media  
 
 ---
 
-## ABOUT ME
+# ABOUT ME
 
-Passionate full‑stack developer with over six years of experience building dynamic, scalable, and high‑performance web and mobile applications. Highly skilled in React, React Native, Next.js, TypeScript, and Redux, delivering pixel‑perfect UI/UX and robust functionality across platforms.
+Passionate Full-Stack Developer with over six years of experience building scalable, high-performance web and mobile applications. Experienced in React, React Native, Next.js, TypeScript, Node.js, Express.js, and modern frontend technologies, with a strong focus on delivering clean, maintainable, and user-friendly solutions.
 
-I excel at integrating third‑party services, writing clean and maintainable code, implementing automated testing, and collaborating effectively within cross‑functional teams. Through my TechStack Media YouTube channel, I share industry knowledge and mentor aspiring engineers.
+Skilled at integrating third-party services, developing RESTful APIs, optimizing application performance, writing reusable code, and collaborating effectively within cross-functional Agile teams. I also share programming knowledge and mentor aspiring developers through my TechStack Media YouTube channel.
 
 ---
 
-## WORK EXPERIENCE
+# WORK EXPERIENCE
 
-### **GemPages – Customer Support Agent (CSA)** *(Remote)*
+## Customer Support Agent (CSA)  
 
-**January 2025 – November 2025**
+**GemPages (Remote)**  
+**January 2025 – November 2025**  
 
 * Assisted users in troubleshooting and optimizing Shopify stores using the GemPages page builder.
-* Collaborated with product and technical teams to identify bugs, test solutions, and communicate fixes.
-* Created documentation and educational resources to reduce support load and improve user experience.
-* Improved support accuracy and efficiency using internal tools and standardized workflows.
+* Collaborated with product and engineering teams to identify bugs, test fixes, and communicate resolutions.
+* Created documentation and educational resources that reduced support requests and improved customer experience.
+* Utilized internal tools and standardized workflows to improve support efficiency and response quality.
 
-**Key Impact:**
+**Key Achievements**
 
-* Delivered fast, clear, empathetic communication that improved customer satisfaction.
-* Gained in‑depth understanding of Shopify, Liquid templates, and frontend customization.
-
----
-
-### **DrugStoc – Senior Front‑end Engineer & React Native Developer** *(Lagos, Nigeria)*
-
-**July 2022 – May 2025**
-
-* Developed and maintained React Native applications for iOS & Android using TypeScript, Redux, and modern architecture.
-* Implemented pixel‑perfect UI, optimized rendering performance, and improved app stability.
-* Integrated third‑party APIs, push notifications, and advanced offline storage logic.
-* Worked closely with product managers, designers, and backend engineers within an agile environment.
-* Participated in code reviews and implemented automated tests to ensure quality.
-
-**Key Impact:**
-
-* Boosted performance of the flagship ordering platform by *30%*.
-* Built a custom caching system that improved data access in low‑network conditions.
+* Delivered timely, empathetic customer support that improved customer satisfaction.
+* Developed strong expertise in Shopify, Liquid templates, and frontend customization.
 
 ---
 
-### **CBC EMEA – Front‑end Developer** *(Lagos, Nigeria)*
+## Senior Front-end Engineer & React Native Developer
 
-**March 2021 – June 2022**
+**DrugStoc – Lagos, Nigeria**  
+**July 2022 – May 2025**  
 
-* Delivered mobile‑first, responsive user interfaces for various client projects.
-* Built high‑performance, SEO‑friendly WordPress sites.
-* Utilized TypeScript, JavaScript, Sass, and Bootstrap to write semantic and maintainable code.
+* Developed and maintained React Native applications for iOS and Android using TypeScript, Redux, and modern architectural patterns.
+* Built pixel-perfect user interfaces while optimizing rendering performance and application stability.
+* Integrated third-party APIs, push notifications, offline storage, and authentication systems.
+* Collaborated closely with product managers, designers, QA engineers, and backend developers in an Agile environment.
+* Participated in code reviews and implemented automated testing to maintain software quality.
 
-**Key Impact:**
+**Key Achievements**  
 
-* Contributed to the launch of 5+ high‑profile client websites with improved UX and faster load times.
-
----
-
-## EDUCATION
-
-**Bells University of Technology** – Bachelor of Engineering (B.Eng), Mechatronics Engineering
+* Improved application performance by approximately **30%**.
+* Built a custom caching solution that significantly enhanced user experience under poor network conditions.
 
 ---
 
-## TECHNICAL SKILLS
+## Front-end Developer  
 
-### **Mobile App Development**
+**CBC EMEA – Lagos, Nigeria**  
+**March 2021 – June 2022**  
 
-React Native, Expo, Redux, React Navigation, REST API Integration, Offline Storage, Native Modules, Push Notifications, Automated Testing (Jest, Detox), Xcode, Android Studio
+* Developed responsive, mobile-first web applications for multiple client projects.
+* Built SEO-friendly WordPress websites with a focus on performance and accessibility.
+* Developed reusable components using TypeScript, JavaScript, Sass, and Bootstrap.
+* Worked closely with designers to deliver high-quality user interfaces.
 
-### **Frontend Development**
+**Key Achievements**  
 
-React, Next.js, Vue.js, Angular, TypeScript, JavaScript (ES6+), HTML5, CSS3
-
-### **Backend Development**
-
-Node.js, Express, Django, REST API Design, Database Operations (PostgreSQL, MongoDB)
-
-### **Styling & UI/UX**
-
-Tailwind CSS, Sass, Bootstrap, Figma, Adobe XD, Component‑based Architecture
-
-### **Additional Skills (Recruiter‑Attracting Additions)**
-
-* CI/CD (GitHub Actions, Bitrise)
-* Cloud & DevOps: Docker, AWS (S3, Lambda, CloudFront)
-* Authentication & Security: JWT, OAuth, Role‑Based Access Control
-* State Machines (XState)
-* Performance Profiling & Optimization
-* Clean Architecture, SOLID Principles
-* Agile/Scrum Collaboration
+* Contributed to the successful launch of more than five client websites with improved performance and user experience.
 
 ---
 
-## PORTFOLIO
+# EDUCATION  
 
-* **React Native Healthcare App (DrugStoc)** – Ordering modules, offline syncing, delivery workflows.
-* **Pillometer AI Web App** – Secure authentication and AI chatbot for health‑related queries. *([View Project](https://pillometer.com))*
-* **DrugStoc E‑commerce Web App** – Built with React & Tailwind CSS. *([View Project](https://app.drugstoc.com))*
-* **DrugStoc Learning Platform** – Responsive platform built with Next.js. *([View Project](https://www.drugstoc.com/learning))*
-* **TechStackSpace Website** – Coding education blog platform. 
-* **CBC EMEA Business Website** – SEO‑optimized WordPress site. 
+## First School Leaving Certificate (FSLC)  
+
+**LTB**  
+**2000 – 2005**  
+
+## Senior Secondary School Certificate (SSCE)  
+
+**Durable Comprehensive High School**  
+**2006 – 2011**  
+
+## Bachelor of Engineering (B.Eng.), Mechatronics Engineering  
+
+**Bells University of Technology**  
+**2012 – 2017**  
+
+---
+
+# TECHNICAL SKILLS  
+
+### Frontend
+
+* React
+* Next.js
+* Vue.js
+* Angular
+* TypeScript
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Mobile Development
+
+* React Native
+* Expo
+* Redux
+* React Navigation
+* REST API Integration
+* Offline Storage
+* Native Modules
+* Push Notifications
+* Jest
+* Detox
+* Xcode
+* Android Studio
+
+### Backend
+
+* Node.js
+* Express.js
+* Django
+* REST API Development
+* PostgreSQL
+* MongoDB
+
+### Styling & UI
+
+* Tailwind CSS
+* Sass
+* Bootstrap
+* Figma
+* Adobe XD
+
+### Tools & DevOps
+
+* Git
+* GitHub
+* Docker
+* GitHub Actions
+* Bitrise
+* AWS (S3, Lambda, CloudFront)
+
+### Additional Skills
+
+* JWT Authentication
+* OAuth
+* Role-Based Access Control (RBAC)
+* XState
+* Performance Optimization
+* Clean Architecture
+* SOLID Principles
+* Agile/Scrum
+
+---
+
+# PORTFOLIO  
+
+* **React Native Healthcare App (DrugStoc)** – Ordering modules, offline synchronization, and delivery workflows.
+* **Pillometer AI Web App** – Secure authentication and AI-powered healthcare chatbot.
+* **DrugStoc E-commerce Web App** – Built with React and Tailwind CSS.
+* **DrugStoc Learning Platform** – Responsive learning platform developed with Next.js.
+* **TechStackSpace** – Programming tutorials and educational content.
+* **CBC EMEA Business Website** – SEO-optimized WordPress website.
